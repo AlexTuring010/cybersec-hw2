@@ -1,0 +1,12 @@
+Retrieved the first part of the flag:
+
+2151a148ca163d23
+
+Retrieved the second part of the flag:
+
+9dc2816286496bae
+
+Third part was just zeroes, I guess this is the padding thats automatically added?
+
+
+
