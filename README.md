@@ -41,6 +41,10 @@ A chained-RC2 setup where the same cipher object normally can't both encrypt and
 
 Worth the most points on the board, but it only took two payloads once I found the injection point (the error page). Most people gave up before they spotted it.
 
+## License
+
+[MIT](LICENSE) — applies to my own work in this repo (writeups, scripts, exploits). Class-distributed source/binaries retain their original course copyright.
+
 ## Sequence
 
 Part of a five-piece cybersecurity coursework cluster:
